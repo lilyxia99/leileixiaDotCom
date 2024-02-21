@@ -9,7 +9,7 @@ In this article, I will use interview-actor, a word I created myself. Because th
 
 ### Invisible Object and Empty Touch
 
-同时影片中我们会使用一种叫做
+In the film we will use a technique called invisible sculpture. This comes from a workshop that I developed. We mimic the gesture of touching an object, and by doing so we feel the object in 
 
 《红楼梦》里有一句话：“假作真时真亦假，无为有处有还无。“ This story is exactly like that. 
 
@@ -25,4 +25,11 @@ In this article, I will use interview-actor, a word I created myself. Because th
 有一次我去参加了一个有关残障和生育的研讨会，里面提到了优生优育是一个是一种
 
 作为一个健全人，我没办法想象真正作为残障人会是怎样的生活，但是我曾经也面临过卧床不起的情况，那个时候闪过我脑海的念头就是我渴望那样的科技可以让我再下地去跑步。即便我知道更有残障权益视角的想法应该怎样，更加先进的理念是怎样，但是事情摊在自己的头上，一个人是会很难拒绝被科技治愈的诱惑的。
+
+## 近未来世界
+
+
+
+## Unity世界
+
 
