@@ -18,6 +18,8 @@ In the film we will use a technique called invisible sculpture. This comes from 
 
 虽然读了这些残障研究的理论，明白了anti-cure的主张，但是一种异样的感觉总是浮在我的心头——理论真的能那么容易地付诸实践吗？这种疑问在我带着各种残障理论知识去做采访的时候逐渐浮现出来，尤其是当我采访赛博朋克主题的这几位 interview-actors 的时候。
 
+Although I read these theories of disability studies and understood the claims of anti-cure, a strange feeling always floated in my mind -- can these theories really carried out that easily? This question gradually surfaced when I took my knowledge of various disability theories to do interviews, especially when I interviewed these interview-actors of the cyberpunk theme.
+
 其中一位给自己角色的名字叫小华。他是一名科技公司的程序员。他想象的世界是一个最为理想化的科幻世界，一个他
 
 有趣的是，虽然我采访的对象不多，但是几乎所有受访的男性都想象了一种赛博朋克感十足的世界，尤其是要含有身体改造的元素。
