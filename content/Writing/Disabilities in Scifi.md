@@ -2,7 +2,10 @@
 
 ### Interview-Actor
 
-在这片文章中，我会使用 interview-actor 这样一个我自造的词。因为参与这个项目的人并不完全是纪录片中的受访者，也不全是演员。我们讨论的事情很大部分是基于他们的讲述，which stemmed from their own lives. 但与此同时，他们保留了在讲述中虚构的权利；我们在聊天的时候有时候会真实地聊天，有时候在一本正经地胡说八道，但是在影片中这两者并没有被严格的区别开，以至于观众无法分清真假。
+在这篇文章中，我会使用 interview-actor 这样一个我自造的词。因为参与这个项目的人并不完全是纪录片中的受访者，也不全是演员。我们讨论的事情很大部分是基于他们的讲述，which stemmed from their own lives. 但与此同时，他们保留了在讲述中虚构的权利；我们在聊天的时候有时候会真实地聊天，有时候在一本正经地胡说八道，但是在影片中这两者并没有被严格的区别开，以至于观众无法分清真假。
+
+
+In this article, I will use interview-actor, a word I created myself. Because the people involved in this project are not exactly the interviewees in a documentary, nor are they all entirely actors. While most of what we discussed was based on their story, which stemmed from their own lives, they retain the right to fictionalize the truth; sometimes we chat about real life, and sometimes we made up things, and in the film, the two are not strictly distinguished, so that the audience can't tell the truth from the false.
 
 ### Invisible Object and Empty Touch
 
