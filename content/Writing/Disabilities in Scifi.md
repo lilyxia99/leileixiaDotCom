@@ -11,7 +11,7 @@ In this article, I will use interview-actor, a word I created myself. Because th
 
 In the film we will use a technique called “invisible object”, which comes from a workshop that I developed. We mimic the gesture of touching an object, and by doing so we feel the object even without the actual physical object. This method enable us to “create” objects when there were limited assets and interaction in the game, and by echoing and responding to each other’s performance, 这种无实物表演衔接了身处异地的表演者；它既是一种演技的练习，也是一种默契的建立。我们配合中完成一种非语言的交流，像玩过家家的小孩子一样，踏入共同确认的幻想中。
 
-invisible object同时也对应了这部影片半虚构半纪录的本质。在虚构的层面上，角色扮演本身就需要一种虚空中来的信念感。平时当我们玩TRPG游戏的时候，我们都需要通过语言或者选择去
+invisible object同时也对应了这部影片半虚构半纪录的本质。在虚构的层面上，角色扮演本身就需要一种虚空中来的信念感。平时当我们玩TRPG游戏的时候，我们都需要通过我们的话语去构建沉浸感 “
 
 
 ## 赛博朋克世界k
