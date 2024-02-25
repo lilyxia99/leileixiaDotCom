@@ -1,6 +1,13 @@
 Q：为什么要用VR？这个在电话里采访有什么区别？和在现实中采访有什么区别？
 
-在VR里我们身处同一个空间——无论是视觉上还是声音上，都能感觉到彼此的空间位置。如果是现实中的采访，可能会比较尴尬，因为我们都在谈一些虚构的事情。而且我对窥探采访对象的真实隐私没有兴趣。更准确地说，我对于真实流露的情感感兴趣，但是我不需要猎奇化任何人的生活。
+~~在VR里我们身处同一个视觉和声音的空间，都能感觉到彼此的空间位置。现实中的采访和虚拟现实中的采访各有利弊，侧重点也不同。现实中的纪录片拍摄更追求一种“真实感”——即便这种呈现的”真实“也是打引号的。如果我在现实中拍摄纪录片，或许我会去去到他们家中住上几日，和他们相约多次出行，用摄像头拍摄，甚至监视他们的一言一行。想要获得尽量多的素材，是因为想要捕捉他们不经意间流露出来的言行举止，而非一种面对镜头的表演。
+
+ Interviews in reality and interviews in virtual reality have their pros and cons, and their focuses are different. Documentary filmmaking in reality seeks a sense of "realism" - even if that "realism" is in question. If I were making a documentary in reality, I would probably go and stay at their home for a few days, meet them on several trips, film them with a camera, and even spy on their every gesture. I would want to get as much footage as possible in order to present their kernel of personality, rather than a performance for the camera.
+
+Virtual filmmaking, especially in this film, emphasize acting and non-realism in the first place. By refusing to present everything as it is, it nullifies the expectation of realism or truth-seeking in conventional documentary context, which, on the contrary 
+
+环境虽然可以按照表演者想象的心意设置，但终究不是自己家里的，因此所谓的从环境中窥见演员
+我们都在谈一些虚构的事情。而且我对窥探采访对象的真实隐私没有兴趣。
 
 Q：为什么要用无实物表演？无实物表演和这个影片讲述的事情的关系是什么？
 
@@ -43,7 +50,7 @@ Q：
 
 ### Interview-Actor
 
-	在这篇文章中，我会使用 interview-actor 这样一个我自造的词。因为参与这个项目的人并不完全是纪录片中的受访者，也不全是演员。我们讨论的事情很大部分是基于他们的讲述，which stemmed from their own lives. 但与此同时，他们保留了在讲述中虚构的权利；我们在聊天的时候有时候会真实地聊天，有时候在一本正经地胡说八道，但是在影片中这两者并没有被严格的区别开，以至于观众无法分清真假。
+~~在这篇文章中，我会使用 interview-actor 这样一个我自造的词。因为参与这个项目的人并不完全是纪录片中的受访者，也不全是演员。我们讨论的事情很大部分是基于他们的讲述，which stemmed from their own lives. 但与此同时，他们保留了在讲述中虚构的权利；我们在聊天的时候有时候会真实地聊天，有时候在一本正经地胡说八道，但是在影片中这两者并没有被严格的区别开，以至于观众无法分清真假。
 
 In this article, I will use a made-up word called interview-actor, because the people involved in this project are not exactly the interviewees in a documentary, nor are they entirely actors. While most of what we discussed was based on their story, which stemmed from their own lives, they retain the right to fictionalize the truth; sometimes we chat about real life, and sometimes we made up things, and in the film, the two are not strictly distinguished, so that the audience can't tell the truth from the false.
 
