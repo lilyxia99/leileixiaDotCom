@@ -1,0 +1,1 @@
+Anti-Cure, Anti-Fixed, Pro-disabilities right
