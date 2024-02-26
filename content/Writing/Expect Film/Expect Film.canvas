@@ -11,9 +11,9 @@
 		{"id":"5531e667adca8c02","x":1120,"y":-310,"width":220,"height":140,"type":"text","text":"道理我都懂，但是真的会有这么容易吗接受吗？ 残障人本身是怎么想的呢？"},
 		{"id":"9a664fd6ace63575","x":-1000,"y":-410,"width":300,"height":320,"type":"text","text":"1. 让我觉得世界观震碎\n2. 为什么世界观震碎，是因为其实我蛮科技狂热的\n3. 我一直都没有认为科幻小说中的叙事有任何问题，当我开始思考的时候才发现这其中的潜台词\n4. 如果科技也可以被拒绝的话，那我们要科技有什么用？怎么办？"},
 		{"id":"accb2c76e39e3957","x":1660,"y":-520,"width":250,"height":140,"type":"text","text":"我需要真实的成分。因为我是在探索虚构的故事里被忽略的真实的问题。"},
-		{"id":"1544cb3e74fb6657","x":1660,"y":-80,"width":250,"height":160,"type":"text","text":""},
-		{"id":"fcf265dd406b3466","x":2120,"y":-370,"width":250,"height":60,"type":"text","text":""},
-		{"id":"adfe953981a3d6b1","x":2120,"y":-170,"width":250,"height":60,"type":"text","text":""}
+		{"id":"1544cb3e74fb6657","x":1660,"y":-80,"width":250,"height":380,"type":"text","text":"我想探索的始终还是关于我们如何想象的。关键不在于现实是怎样的，而是关于我们的想象是怎样的。\n\n有一类社会向的软科幻，会展现潜意识价值观的，在科技进步的潮流和危机中，考验我们的人性。\n\n科幻作品，往往是考验到我们价值排序的作品。《万神殿》是这样的例子，《三体》也是这样的例子。"},
+		{"id":"fcf265dd406b3466","x":2100,"y":-290,"width":280,"height":170,"type":"text","text":"角色扮演：虽然是在虚构，但是因为有大量的即兴，以及我们在即兴的时候是和闲聊结合在一起的，所以一方面流露出现实主义的色彩，一方面又高度地虚拟化"},
+		{"id":"adfe953981a3d6b1","x":2660,"y":-280,"width":250,"height":150,"type":"text","text":"在VR中拍摄："}
 	],
 	"edges":[
 		{"id":"8187b7e5c3513539","fromNode":"5cf4f2fe084d3732","fromSide":"bottom","toNode":"59c15b0572b4643c","toSide":"top","color":"5","label":"Tropes"},
@@ -28,7 +28,8 @@
 		{"id":"403b10bcdb2c3390","fromNode":"5cf4f2fe084d3732","fromSide":"left","toNode":"9a664fd6ace63575","toSide":"right","color":"1","label":"为什么我会关心这个话题"},
 		{"id":"56cccdddc894ec3f","fromNode":"1167d26374c1b609","fromSide":"top","toNode":"accb2c76e39e3957","toSide":"bottom","label":"为什么纪录"},
 		{"id":"ecf893fe4dcf1ad2","fromNode":"1167d26374c1b609","fromSide":"bottom","toNode":"1544cb3e74fb6657","toSide":"top","label":"为什么虚构"},
-		{"id":"0937eb1f2b22bd86","fromNode":"1167d26374c1b609","fromSide":"right","toNode":"fcf265dd406b3466","toSide":"left","label":"为什么角色扮演"},
-		{"id":"0c98200baa863e46","fromNode":"1167d26374c1b609","fromSide":"right","toNode":"adfe953981a3d6b1","toSide":"left","label":"为什么VR"}
+		{"id":"c66e4a5f30b8f04b","fromNode":"accb2c76e39e3957","fromSide":"right","toNode":"fcf265dd406b3466","toSide":"left","label":"所以"},
+		{"id":"9f7b577af30dd843","fromNode":"1544cb3e74fb6657","fromSide":"right","toNode":"fcf265dd406b3466","toSide":"left","label":"所以"},
+		{"id":"51c91ece8487e7bd","fromNode":"fcf265dd406b3466","fromSide":"right","toNode":"adfe953981a3d6b1","toSide":"left","label":"因为是虚拟化，所以"}
 	]
 }
