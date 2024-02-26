@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"2394e9b8aaf59d21","x":525,"y":-1120,"width":250,"height":60,"type":"text","text":""},
 		{"id":"5cf4f2fe084d3732","type":"text","text":"Disability in Science Fiction","x":-340,"y":-280,"width":250,"height":60},
 		{"id":"63a46c56334505b8","x":80,"y":-280,"width":250,"height":60,"type":"text","text":"Disability in Technology\n"},
 		{"id":"64b0166ae5fd060c","x":-340,"y":-500,"width":250,"height":120,"type":"text","text":"Cyborg, Future world, Technological evolution science fiction"},
@@ -30,7 +29,8 @@
 		{"id":"445956a31b92e581","x":80,"y":-720,"width":250,"height":120,"type":"text","text":"中国对于科技的拥抱尤为明显，同时对于残障的保护也格外缺乏。"},
 		{"id":"f70156f63200d44d","x":525,"y":-735,"width":380,"height":150,"type":"text","text":"在中国，科技的普及是自上而下而不假思索的。所有的政务系统都接入微信和支付宝，在疫情期间实现大量的信息通达建设，然而即便信息技术如此普及，却连街头的信号灯都无法修个带声响的。"},
 		{"id":"dee6917811454946","x":525,"y":-920,"width":380,"height":120,"type":"text","text":"在中国的互联网上也经常看到一些论调：如果是残障，就不配被生下来。“优生优育，少生优生”是从小学就能看到的标语。国家对于国民身体的控制和监管是一以贯之的。"},
-		{"id":"8807090270e8bbd9","x":2100,"y":-800,"width":250,"height":55,"type":"text","text":"仅限于中国的语境：中国"}
+		{"id":"8807090270e8bbd9","x":2100,"y":-800,"width":250,"height":55,"type":"text","text":"仅限于中国的语境：中国"},
+		{"id":"2394e9b8aaf59d21","x":525,"y":-1200,"width":380,"height":240,"type":"text","text":"中国人惯常思维：把现在贬低成了实现未来的工具。中国人最喜欢等待未来：等你考上好的高中，就可以考上好的大学；等你考上好的大学，就可以找到好的工作；找到好的工作，可以找到好的伴侣；找到好的伴侣，可以生好的小孩……直到死，才可以算到达幸福的彼岸。从这个意义上来讲，中国人是最有科幻精神，以及最需要科幻的一群人。中国人的一生就是"}
 	],
 	"edges":[
 		{"id":"8187b7e5c3513539","fromNode":"5cf4f2fe084d3732","fromSide":"bottom","toNode":"59c15b0572b4643c","toSide":"top","color":"5","label":"Tropes"},
@@ -69,6 +69,7 @@
 		{"id":"866bea7f2e5d4881","fromNode":"445956a31b92e581","fromSide":"right","toNode":"dee6917811454946","toSide":"left","color":"5","label":"体现"},
 		{"id":"e1553ce85a27cf63","fromNode":"1167d26374c1b609","fromSide":"top","toNode":"8807090270e8bbd9","toSide":"bottom","label":"context"},
 		{"id":"1fd141c67fe92f5d","fromNode":"dee6917811454946","fromSide":"right","toNode":"8807090270e8bbd9","toSide":"left","color":"1"},
-		{"id":"db4c1d8d39efe67b","fromNode":"f70156f63200d44d","fromSide":"right","toNode":"8807090270e8bbd9","toSide":"left","color":"1"}
+		{"id":"db4c1d8d39efe67b","fromNode":"f70156f63200d44d","fromSide":"right","toNode":"8807090270e8bbd9","toSide":"left","color":"1"},
+		{"id":"be13a87c7d979f6c","fromNode":"445956a31b92e581","fromSide":"right","toNode":"2394e9b8aaf59d21","toSide":"left","color":"5","label":"体现"}
 	]
 }
