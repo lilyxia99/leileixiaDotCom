@@ -56,5 +56,11 @@
 
 ![投影效果](https://media.discordapp.net/attachments/1107698002375745537/1128554898850578432/R0000878.jpg?ex=65f13627&is=65dec127&hm=59f8345c9dc9232065d6e72864138429d15188e23f32094aa3bab197fea69952&=&format=webp&width=1956&height=1296)
 
-![投影](https://media.discordapp.net/attachments/1107698002375745537/1128554901560098826/R0000909.jpg?ex=65f13628&is=65dec128&hm=096ad1d7c3d8614cfef1f3fb48cea8c6c60f9f0b9168fec369d1af0129334ecc&=&format=webp&width=1296&height=1296)
+![视频雕塑由两块投影构成。一个是投在半透明的纱布上，另一个是在白墙上。如此一来纱布上的投影会叠加在白墙上的投影上，形成有远近的效果。](https://media.discordapp.net/attachments/1107698002375745537/1128554901560098826/R0000909.jpg?ex=65f13628&is=65dec128&hm=096ad1d7c3d8614cfef1f3fb48cea8c6c60f9f0b9168fec369d1af0129334ecc&=&format=webp&width=1296&height=1296)
+
+![工作坊前的装置](https://media.discordapp.net/attachments/1107698002375745537/1128555182431686696/R0001257.jpg?ex=65f1366b&is=65dec16b&hm=9dc806352adc4dd34f9db37ca78d14fc4330c2e55c8bf74d67a2cad5b9a5da29&=&format=webp&width=1734&height=1296)
+
+![](https://media.discordapp.net/attachments/1107698002375745537/1128555215629582427/R0000944.jpg?ex=65f13672&is=65dec172&hm=9d268b95d6d78dbebbea8eb1d3be285f920c1fe319ed7bb067ac3f10aa09706f&=&format=webp&width=1948&height=1296)
+
+![](https://media.discordapp.net/attachments/1107698002375745537/1128555213876367420/R0000930.jpg?ex=65f13672&is=65dec172&hm=18b3cc1bb3baa92fe77ffd03653e32d088c0dcfdafcfd4d50827ed02afaf3284&=&format=webp&width=1296&height=1296)
 
