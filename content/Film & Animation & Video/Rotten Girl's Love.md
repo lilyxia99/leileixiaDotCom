@@ -1,0 +1,8 @@
+**WEAR HEADPHONES BEFORE WATCHING**
+
+**_Rotten Girl's Love_**  
+23'10'', 1920*1080p. Live action with animation, 2019.  
+A girl, fascinated with gay romance, fell in love with a gay man, and started questioning her identity both as a Fujoshi and as a heterosexual.
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/338361041?h=4d77501267" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+

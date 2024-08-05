@@ -50,6 +50,8 @@ This workshop has been hosted in UCCA Museum and VCUarts Graduate Candidacy Grou
 ![](https://files.catbox.moe/6vinzx.jpg)
 
 
+![Catbox](https://files.catbox.moe/u99jbz.png)
+
 ## Related Works
 [[Tactile Cinema]]
 
@@ -93,7 +95,10 @@ Initially, I just found it interesting and wanted to explore it further. But I d
 
 ### 最初的测试 Initial Tests
 
-最初的测试是在触目的一次线上的Open Touch的活动上。但是当时这个想法还只是非常模糊的概念，所以说时候做了之后大家都很困惑，但是总体的反馈是确实会有一点感觉，但是需要更好的带领和流程。当时啵啵舞厅的Berlina介绍了我一种方式，是通过**搓手**产生一种似乎在摸东西的感觉，然后带领大家开始摸他们自己的”**不可见雕塑**“。我发现这个方法非常有效，于是后面所有工作坊的开头都采取了这个做法。
+最初的测试是在触目的一次线上的Open Touch的活动上。但是当时这个想法还只是非常模糊的概念，所以说时候做了之后大家都很困惑，但是总体的反馈是确实会有一点感觉，但是需要更好的带领和流程。当时*啵啵舞厅的Berlina*介绍了我一种方式，是通过**搓手**产生一种似乎在摸东西的感觉，然后带领大家开始摸他们自己的”**不可见雕塑**“。我发现这个方法非常有效，于是后面所有工作坊的开头都采取了这个做法。
+
+![Catbox](https://files.catbox.moe/7qga2c.png)
+
 
 后来我首先召集了我在里士满当地的朋友（实际上就是我的另外两名研究生同学）做了一个迷你的线下工作坊。在这个工作坊里我们每个人带来了一样物品，然后我引导大家一起创建“不可见的雕塑”。在这个工作坊里我引入了一个虚构的“**宫殿**”的概念。这个概念主要是提供一种沉浸式的剧情，从实用角度上可以不用。但是我却对这个概念情有独钟，在后面我会详细解释的。详细的过程可以参考这篇推文👉[【回顾】【作品】夏磊蕾｜触觉哑剧（2022年11月9日第一次测试）](https://mp.weixin.qq.com/template/article/1717124248/index.html)
 
@@ -213,4 +218,9 @@ The effect was quite magical, possibly because of the strong rapport among the t
 
 ![](https://files.catbox.moe/q0klaa.JPG)
 
+![Catbox](https://files.catbox.moe/uf0sgn.png)
+![Catbox](https://files.catbox.moe/5cepro.png)
+![Catbox](https://files.catbox.moe/qp3y24.png)
 
+
+![Catbox](https://files.catbox.moe/b8b564.png)
