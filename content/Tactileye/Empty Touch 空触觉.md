@@ -1,8 +1,17 @@
-## 空触觉是什么？ What is Empty Touch
 
+![uploading...](cveukc)
+
+![uploading...](9go9i2)
+
+**_The Palace_**  
+Translucent gauze, two-channel video, two-channel sound, 2023  
+The Palace is a video installation featuring a narrative based on empty touch— drawing inspiration from Buddism classic Shurangama Sutra and Andersen’s FairyTale The Emperor's New Clothes, the video is a narrative tutorial: tells a story between a monk and an emperor, who they both have forgotten about each other, but found their connections in deep memory in “the Palace”. It takes people through a journey of entering the palace and create invisible object.
+## 空触觉是什么？ What is Empty Touch
 我称之为"空触觉"的东西是一种触觉体验，它可以利用人们的习惯性动作和记忆来模拟触摸某物的感觉，即便你实际上没有摸到任何东西。
 
 说得很抽象，那不如先看看下面这个视频吧。
+
+![](https://youtu.be/LzCTLmiBhfc)
 
 What I call "Empty Touch" is a tactile experience that utilizes people's habitual movements and memories to simulate the sensation of touching something, even though you are not actually touching anything.
 
