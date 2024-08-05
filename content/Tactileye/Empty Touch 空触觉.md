@@ -28,7 +28,7 @@
 
 “Empty touch” is a tactile experience I discovered that can simulate the feeling of touching something by reenacting the gesture of touching the object guided, by verbal or visual cues.
 
-![](https://files.catbox.moe/u0v196.jpeg)
+![UCCA 工作坊现场](https://files.catbox.moe/u0v196.jpeg =500x)
 
 **_Empty Touch Workshop_**  
 workshop  
