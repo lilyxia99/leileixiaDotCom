@@ -33,6 +33,8 @@
 ![UCCA 工作坊现场|500x](https://files.catbox.moe/u0v196.jpeg)
 
 ![](https://files.catbox.moe/9skuw2.jpeg)
+
+![](https://files.catbox.moe/hjjs3o.jpeg)
 ## 触觉哑剧工作坊   **_Empty Touch Workshop_**  
 现场工作坊，2023-now  
 触觉哑剧工作坊的目的就是为了带领参与者一起实际体验空触觉。工作坊有一个和影像装置《宫殿》相同的虚构背景，那就是“宫殿”，也是指记忆宫殿。通过赋予工作坊体验一个隐喻空间，我想到了我们自身与记忆之间的哲学和心理学关系。宫殿中的事物既是空的，又是实体，它们不是来自我们的头脑，而是来自我们的整个身体。
@@ -48,13 +50,16 @@ This workshop has been hosted in UCCA Museum and VCUarts Graduate Candidacy Grou
 ![](https://files.catbox.moe/6vinzx.jpg)
 
 
-## 创作过程
-### 空触觉是什么？ What is Empty Touch
+## Related Works
+[[Tactile Cinema]]
+
+# 创作过程
+## 空触觉是什么？ What is Empty Touch
 我称之为"空触觉"的东西是一种触觉体验，它可以利用人们的习惯性动作和记忆来模拟触摸某物的感觉，即便你实际上没有摸到任何东西。
 
 What I call "Empty Touch" is a tactile experience that utilizes people's habitual movements and memories to simulate the sensation of touching something, even though you are not actually touching anything.
 
-### 创作契机 Initial Starting Point
+## 创作契机 Initial Starting Point
 
 最初创作的契机，可以说是源自一种非常实用主义的想法。就是**不想搬家**。
 
@@ -84,9 +89,9 @@ This was my first encounter with the possibility of creating tactile theatre wit
 
 Initially, I just found it interesting and wanted to explore it further. But I didn't realize that, unknowingly, it was actually answering some of my own confusions and dilemmas. I'll elaborate on this later.
 
-### 工作坊实验 Workshop Experiments
+## 工作坊实验 Workshop Experiments
 
-#### 最初的测试 Initial Tests
+### 最初的测试 Initial Tests
 
 最初的测试是在触目的一次线上的Open Touch的活动上。但是当时这个想法还只是非常模糊的概念，所以说时候做了之后大家都很困惑，但是总体的反馈是确实会有一点感觉，但是需要更好的带领和流程。当时啵啵舞厅的Berlina介绍了我一种方式，是通过**搓手**产生一种似乎在摸东西的感觉，然后带领大家开始摸他们自己的”**不可见雕塑**“。我发现这个方法非常有效，于是后面所有工作坊的开头都采取了这个做法。
 
@@ -100,13 +105,13 @@ Later, I organized a mini offline workshop with some friends in Richmond (essent
 
 The effect was quite magical, possibly because of the strong rapport among the three of us friends. One of my favorite objects to this day came from this workshop. I remember it was shaped like a card but felt like a stack of cards, always in a state of overlapping and dynamic. It had some stitching textures on it. The tactile sensation of this object came from the items we brought. I'll never forget the tactile sensation of that object and the magical feeling at that moment because it wasn't something that could exist in reality, yet it was cooler and more interesting than anything I've touched.
 
-#### 线上工作坊
+### 线上工作坊
 
 空触觉触摸工作坊的第二个版本是通过 [触目Tactileye 的线上工作坊](https://mp.weixin.qq.com/s/9X8bpkiNmoiWS0JwRNzQvQ)完成的。在这个工作坊中，我邀请大家借用现实生活中物体的质感，通过想象和记忆再现它。参与者与三件物品互动，了解它们的形状、质地和重量，构建一个无形的复制品，然后把它收藏在你宫殿的某个角落。 重要的是要获得切身的体验，而不是用逻辑解释来记忆。然后，参与者对物体的形状、质地和重量进行雕刻。这就像在3D软件里建模一样，但比在软件里自由度更大，因为你不仅是字面意义上地“空手套白狼”，而且可以触摸到你构造的东西。你的物体可以随意修改、纹理和甚至变化。
 
 ![](https://files.catbox.moe/fl6gpr.png)
 
-#### 线下工作坊：里士满、北京、上海
+### 线下工作坊：里士满、北京、上海
 
 第三次工作坊是宫殿的影像装置在美国里士满展出的时候。关于影像装置的创作过程会在下一个章节详述。但总之在美国的展览上，我在影像装置旁边的安排了一个工作坊区域。在那里我尝试把工作坊的流程打印下来，变成一个小册子。方便大家带回去，并且让大家把自己摸到的不可见雕塑的物品都画在一个小本子上。这样产生的结果很有意思，仿佛大家的不可见雕塑都被这样展示了出来。看到别人的“咒语”也能浮想联翩。
 
@@ -160,7 +165,7 @@ The effect was quite magical, possibly because of the strong rapport among the t
 
 总体来说，参加完的朋友大部分的感想就是很不可思议，以前没有发现原来竟然靠想象也可以仿佛摸到东西，打开了想象力。另一方面就是能够摸到别人的东西，感觉会有一种没有触碰彼此，但还是“触”到了的快乐。
 
-### 影像装置
+## 影像装置
 
 前面提到我使用了宫殿这个概念，其实也是在想是否可以让工作坊也像触摸剧一样，有自己的情节和故事。所以宫殿这个场所就是承载着这样故事的一个情景。
 
@@ -190,7 +195,7 @@ The effect was quite magical, possibly because of the strong rapport among the t
 
 影像故事里国王拥有的衣服，也有其原型，其中就有来自我妈给我缝的衣服的触感。那是一件我穿了6年的二手T恤，背后商标的部位都烂出一个洞了，但是我很爱穿。在临出发去美国的时候发现我妈把他给缝上了。当我在美国感觉很无助的时候，这件衣服真的就是活生生的“慈母手中线，游子身上衣”。后来拍完后，我出门旅行的时候很意外地把这件衣服搞不见了（太离谱了……穿了6年的衣服就这样不见了）但是意外的是我并没有觉得很焦虑，反而有一种依旧持有它的感觉。因为我在拍摄影像的时候就已经把它做成了“不可见雕塑”——**我非常细心地触摸过这件衣服的里里外外和它的每一处疙瘩，即便它不在，我也感觉有一种触手可及的熟悉感，仿佛它依旧在我身边**。从某种意义上，虽然我丢失了它，但也永远拥有着它。这种感觉很不可思议，**不可见雕塑似乎让我拥有了面对失去的勇气**。
 
-### 总结+未来的计划
+## 总结+未来的计划
 
 未来我打算组织一次为期一周的工作坊，每一天都做不可见雕塑。
 
