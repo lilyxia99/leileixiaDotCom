@@ -1,20 +1,26 @@
 
-半透明纱布、双通道影像、双通道声音， 2023  
-《宫殿》是一个视频装置。它既是一个故事，也是一个教程，教人们如何体验空触觉，打开自己的宫殿，创造无形之物。故事利用 "空触 "的隐喻和体现哲学，讲述了一个和尚和一个皇帝之间的故事，他们都已经忘记了彼此，但却在 "宫殿 "的记忆深处找到了联系。  "宫殿 "是触觉体验和视觉故事的结合。通过在半透明的纱布上投影，它的叙事视角既是第一人称又是第三人称。情节改编自《皇帝的新装》和佛经《圣训》的故事；在《皇帝的新装》中，皇帝被骗穿上了隐形的衣服，而在我的故事中，皇帝是自愿选择穿上隐形的衣服，因为他相信来自珍爱之人的记忆比珠宝制成的豪华衣服更重要。只要相信，即使在废墟中，心中的宝藏也不会消失。
+
 
 ![半透明的纱布上投影着手的影像，背后站着一个赤裸上身的人的背影](https://images4.imagebam.com/a7/75/9a/MESEWHL_o.jpg)
 
 ![半透明的手的影响后面有重叠在一起的两个人影，一个穿了衣服，一个没穿衣服](https://images4.imagebam.com/d9/b4/6c/MESEWHQ_o.jpg)
 
-***The Palace***  
+![](https://images4.imagebam.com/0f/b8/dd/MESEWMZ_o.jpg)
+## 《宫殿》The Palace
+半透明纱布、双通道影像、双通道声音， 2023  
+
+《宫殿》是一个视频装置。它既是一个故事，也是一个教程，教人们如何体验空触觉，打开自己的宫殿，创造无形之物。故事利用 "空触 "的隐喻和体现哲学，讲述了一个和尚和一个皇帝之间的故事，他们都已经忘记了彼此，但却在 "宫殿 "的记忆深处找到了联系。  "宫殿 "是触觉体验和视觉故事的结合。通过在半透明的纱布上投影，它的叙事视角既是第一人称又是第三人称。情节改编自《皇帝的新装》和佛经《圣训》的故事；在《皇帝的新装》中，皇帝被骗穿上了隐形的衣服，而在我的故事中，皇帝是自愿选择穿上隐形的衣服，因为他相信来自珍爱之人的记忆比珠宝制成的豪华衣服更重要。只要相信，即使在废墟中，心中的宝藏也不会消失。
+
 11'24'', Two channel video installation, transparent fabric and projections, 2023.  
 "The Palace" is a combination of tactile experience and visual storytelling. The holographic and immersive experience render the piece both as a tutorial and a narrative, and its narrative perspective is both first person and third person. The plot adapts the story of the Emperor's New Clothes and Buddhist scriptures Śūraṅgama Sūtra; in the Emperor's New Clothes, the emperor is deceived into wearing invisible clothing, but in my story, the emperor voluntarily chooses to do so because he believes that memories from the cherished one are more important than luxurious garments made of jewels. As long as one believes, even in ruins, the treasures in one's heart will not disappear. 
+
 
 ![](https://youtu.be/LzCTLmiBhfc)
 
 ![](https://images4.imagebam.com/b2/58/40/MESEWNY_o.jpg)
 
-**_Empty Touch_**  
+## 空触觉 **_Empty Touch_**  
+
 “Empty touch” is a tactile experience I discovered that can simulate the feeling of touching something by reenacting the gesture of touching the object guided, by verbal or visual cues.
 
 ![《宫殿》静帧](https://images4.imagebam.com/d7/5e/f1/MESEWN2_o.jpg)
@@ -23,12 +29,15 @@
 workshop  
 Using the same fictional framework of “The Palace”, the workshop is an embodied an interactive journey of the empty touch. The workshop starts with watching the video installation of “the Palace”, and then I acted as the host of “The Palace”, guide participants with various exercises: to touch objects, to extract texture from objects, to touch the space, or to use this method to experience other artworks, such as poems, films, etc.   
 This workshop has been hosted in UCCA Museum and VCUarts Graduate Candidacy Group Exhibition.
-## 空触觉是什么？ What is Empty Touch
+
+
+## 创作过程
+### 空触觉是什么？ What is Empty Touch
 我称之为"空触觉"的东西是一种触觉体验，它可以利用人们的习惯性动作和记忆来模拟触摸某物的感觉，即便你实际上没有摸到任何东西。
 
 What I call "Empty Touch" is a tactile experience that utilizes people's habitual movements and memories to simulate the sensation of touching something, even though you are not actually touching anything.
 
-## 创作契机 Initial Starting Point
+### 创作契机 Initial Starting Point
 
 最初创作的契机，可以说是源自一种非常实用主义的想法。就是**不想搬家**。
 
@@ -58,9 +67,9 @@ This was my first encounter with the possibility of creating tactile theatre wit
 
 Initially, I just found it interesting and wanted to explore it further. But I didn't realize that, unknowingly, it was actually answering some of my own confusions and dilemmas. I'll elaborate on this later.
 
-## 工作坊实验 Workshop Experiments
+### 工作坊实验 Workshop Experiments
 
-### 最初的测试 Initial Tests
+#### 最初的测试 Initial Tests
 
 最初的测试是在触目的一次线上的Open Touch的活动上。但是当时这个想法还只是非常模糊的概念，所以说时候做了之后大家都很困惑，但是总体的反馈是确实会有一点感觉，但是需要更好的带领和流程。当时啵啵舞厅的Berlina介绍了我一种方式，是通过**搓手**产生一种似乎在摸东西的感觉，然后带领大家开始摸他们自己的”**不可见雕塑**“。我发现这个方法非常有效，于是后面所有工作坊的开头都采取了这个做法。
 
@@ -74,11 +83,11 @@ Later, I organized a mini offline workshop with some friends in Richmond (essent
 
 The effect was quite magical, possibly because of the strong rapport among the three of us friends. One of my favorite objects to this day came from this workshop. I remember it was shaped like a card but felt like a stack of cards, always in a state of overlapping and dynamic. It had some stitching textures on it. The tactile sensation of this object came from the items we brought. I'll never forget the tactile sensation of that object and the magical feeling at that moment because it wasn't something that could exist in reality, yet it was cooler and more interesting than anything I've touched.
 
-### 线上工作坊
+#### 线上工作坊
 
 空触觉触摸工作坊的第二个版本是通过 [触目Tactileye 的线上工作坊](https://mp.weixin.qq.com/s/9X8bpkiNmoiWS0JwRNzQvQ)完成的。在这个工作坊中，我邀请大家借用现实生活中物体的质感，通过想象和记忆再现它。参与者与三件物品互动，了解它们的形状、质地和重量，构建一个无形的复制品，然后把它收藏在你宫殿的某个角落。 重要的是要获得切身的体验，而不是用逻辑解释来记忆。然后，参与者对物体的形状、质地和重量进行雕刻。这就像在3D软件里建模一样，但比在软件里自由度更大，因为你不仅是字面意义上地“空手套白狼”，而且可以触摸到你构造的东西。你的物体可以随意修改、纹理和甚至变化。
 
-### 线下工作坊：里士满、北京、上海
+#### 线下工作坊：里士满、北京、上海
 
 第三次工作坊是宫殿的影像装置在美国里士满展出的时候。关于影像装置的创作过程会在下一个章节详述。但总之在美国的展览上，我在影像装置旁边的安排了一个工作坊区域。在那里我尝试把工作坊的流程打印下来，变成一个小册子。方便大家带回去，并且让大家把自己摸到的不可见雕塑的物品都画在一个小本子上。这样产生的结果很有意思，仿佛大家的不可见雕塑都被这样展示了出来。看到别人的“咒语”也能浮想联翩。
 
@@ -158,7 +167,7 @@ The effect was quite magical, possibly because of the strong rapport among the t
 
 影像故事里国王拥有的衣服，也有其原型，其中就有来自我妈给我缝的衣服的触感。那是一件我穿了6年的二手T恤，背后商标的部位都烂出一个洞了，但是我很爱穿。在临出发去美国的时候发现我妈把他给缝上了。当我在美国感觉很无助的时候，这件衣服真的就是活生生的“慈母手中线，游子身上衣”。后来拍完后，我出门旅行的时候很意外地把这件衣服搞不见了（太离谱了……穿了6年的衣服就这样不见了）但是意外的是我并没有觉得很焦虑，反而有一种依旧持有它的感觉。因为我在拍摄影像的时候就已经把它做成了“不可见雕塑”——**我非常细心地触摸过这件衣服的里里外外和它的每一处疙瘩，即便它不在，我也感觉有一种触手可及的熟悉感，仿佛它依旧在我身边**。从某种意义上，虽然我丢失了它，但也永远拥有着它。这种感觉很不可思议，**不可见雕塑似乎让我拥有了面对失去的勇气**。
 
-## 总结+未来的计划
+### 总结+未来的计划
 
 未来我打算组织一次为期一周的工作坊，每一天都做不可见雕塑。
 
@@ -167,3 +176,12 @@ The effect was quite magical, possibly because of the strong rapport among the t
 这样的发现让我发现，其实不可见雕塑，或许也是我不可见的心情。它不仅让我更加关注我对于一个物品的感知，也让我更关注我对自己的感受。每一次的雕塑，都是一次对自己感受的倾听：当下我感觉可以摸到什么，想要做什么，自然而然地可以摸到什么雕塑。
 
 另一个想做的事情，就是把大家摸到的物品集结成册，做成一本zine。仿佛一个看不见的卢浮宫，但是又随时随地可以展开，触摸其中的遥不可及但是又近在咫尺的回忆。
+
+![](https://files.catbox.moe/y11iwf.JPG)
+
+![](https://files.catbox.moe/7de0o5.JPG)
+
+![](https://files.catbox.moe/60pgio.JPG)
+
+![](https://files.catbox.moe/q0klaa.JPG)
+
