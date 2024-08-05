@@ -9,6 +9,7 @@
 
 ![半透明的手的影响后面有重叠在一起的两个人影，一个穿了衣服，一个没穿衣服](https://images4.imagebam.com/d9/b4/6c/MESEWHQ_o.jpg)
 
+
 ![](https://images4.imagebam.com/0f/b8/dd/MESEWMZ_o.jpg)
 ## 《宫殿》The Palace
 半透明纱布、双通道影像、双通道声音， 2023  
@@ -27,12 +28,16 @@
 
 “Empty touch” is a tactile experience I discovered that can simulate the feeling of touching something by reenacting the gesture of touching the object guided, by verbal or visual cues.
 
-![《宫殿》静帧](https://images4.imagebam.com/d7/5e/f1/MESEWN2_o.jpg)
+
 
 **_Empty Touch Workshop_**  
 workshop  
 Using the same fictional framework of “The Palace”, the workshop is an embodied an interactive journey of the empty touch. The workshop starts with watching the video installation of “the Palace”, and then I acted as the host of “The Palace”, guide participants with various exercises: to touch objects, to extract texture from objects, to touch the space, or to use this method to experience other artworks, such as poems, films, etc.   
 This workshop has been hosted in UCCA Museum and VCUarts Graduate Candidacy Group Exhibition.
+
+![](https://files.catbox.moe/jkphw1.jpg)
+
+![](https://files.catbox.moe/6vinzx.jpg)
 
 
 ## 创作过程
@@ -90,6 +95,8 @@ The effect was quite magical, possibly because of the strong rapport among the t
 #### 线上工作坊
 
 空触觉触摸工作坊的第二个版本是通过 [触目Tactileye 的线上工作坊](https://mp.weixin.qq.com/s/9X8bpkiNmoiWS0JwRNzQvQ)完成的。在这个工作坊中，我邀请大家借用现实生活中物体的质感，通过想象和记忆再现它。参与者与三件物品互动，了解它们的形状、质地和重量，构建一个无形的复制品，然后把它收藏在你宫殿的某个角落。 重要的是要获得切身的体验，而不是用逻辑解释来记忆。然后，参与者对物体的形状、质地和重量进行雕刻。这就像在3D软件里建模一样，但比在软件里自由度更大，因为你不仅是字面意义上地“空手套白狼”，而且可以触摸到你构造的东西。你的物体可以随意修改、纹理和甚至变化。
+
+![](https://files.catbox.moe/fl6gpr.png)
 
 #### 线下工作坊：里士满、北京、上海
 
@@ -155,6 +162,8 @@ The effect was quite magical, possibly because of the strong rapport among the t
 
 然而，那又怎样呢？**不可见能替代那些我触不可及的家人和朋友吗？能让因为异地恋和思乡而崩溃的我不再哭泣吗？** 思念的实体化反而让距离的伤口更加清晰，到头来还不是一场镜花水月。不可见雕塑到底意味着什么呢？梦境就算再真实，也拯救不了我啊。
 
+![《宫殿》静帧](https://images4.imagebam.com/d7/5e/f1/MESEWN2_o.jpg)
+
 抱着这样的迷茫，我在做关于搓手练习的调查的时候，发现在楞严经里有一段这样的描述：
 
 > 其人无故，以二手掌，于空相摩。于二手中，妄生涩滑，冷热诸相。受阴当知，亦复如是。阿难！是诸幻触，不从空来，不从掌出。
@@ -168,6 +177,8 @@ The effect was quite magical, possibly because of the strong rapport among the t
 这个故事化用了《皇帝的新衣》以及小时候经常听到的“从前有座山，山里有座庙”的睡前故事。在这个视频里，我也展现了一个最基础的空触觉的流程。所以从某种意义上说，这个视频既是一个故事，也是一个教程。
 
 后来我把这个故事拍成了一个影像。当时想做一个影像装置，但得想出一个最好的能利用装置立体感的方案。最后想到了用纱布做出一种裸眼3D的效果。后面的幕布上面投影人物，前面的半透明纱布上用背投手的画面，仿佛那手是一种第一人称视角一样。事后想想，或许这也像那个故事一样，构成了两个平面，时而调换，时而重叠。
+
+![](https://files.catbox.moe/6c6s0i.jpeg)
 
 影像故事里国王拥有的衣服，也有其原型，其中就有来自我妈给我缝的衣服的触感。那是一件我穿了6年的二手T恤，背后商标的部位都烂出一个洞了，但是我很爱穿。在临出发去美国的时候发现我妈把他给缝上了。当我在美国感觉很无助的时候，这件衣服真的就是活生生的“慈母手中线，游子身上衣”。后来拍完后，我出门旅行的时候很意外地把这件衣服搞不见了（太离谱了……穿了6年的衣服就这样不见了）但是意外的是我并没有觉得很焦虑，反而有一种依旧持有它的感觉。因为我在拍摄影像的时候就已经把它做成了“不可见雕塑”——**我非常细心地触摸过这件衣服的里里外外和它的每一处疙瘩，即便它不在，我也感觉有一种触手可及的熟悉感，仿佛它依旧在我身边**。从某种意义上，虽然我丢失了它，但也永远拥有着它。这种感觉很不可思议，**不可见雕塑似乎让我拥有了面对失去的勇气**。
 
