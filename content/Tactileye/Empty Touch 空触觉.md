@@ -1,21 +1,32 @@
 
-![uploading...](cveukc)
+半透明纱布、双通道影像、双通道声音， 2023  
+《宫殿》是一个视频装置。它既是一个故事，也是一个教程，教人们如何体验空触觉，打开自己的宫殿，创造无形之物。故事利用 "空触 "的隐喻和体现哲学，讲述了一个和尚和一个皇帝之间的故事，他们都已经忘记了彼此，但却在 "宫殿 "的记忆深处找到了联系。  "宫殿 "是触觉体验和视觉故事的结合。通过在半透明的纱布上投影，它的叙事视角既是第一人称又是第三人称。情节改编自《皇帝的新装》和佛经《圣训》的故事；在《皇帝的新装》中，皇帝被骗穿上了隐形的衣服，而在我的故事中，皇帝是自愿选择穿上隐形的衣服，因为他相信来自珍爱之人的记忆比珠宝制成的豪华衣服更重要。只要相信，即使在废墟中，心中的宝藏也不会消失。
 
-![uploading...](9go9i2)
+![半透明的纱布上投影着手的影像，背后站着一个赤裸上身的人的背影](https://images4.imagebam.com/a7/75/9a/MESEWHL_o.jpg)
 
-**_The Palace_**  
-Translucent gauze, two-channel video, two-channel sound, 2023  
-The Palace is a video installation featuring a narrative based on empty touch— drawing inspiration from Buddism classic Shurangama Sutra and Andersen’s FairyTale The Emperor's New Clothes, the video is a narrative tutorial: tells a story between a monk and an emperor, who they both have forgotten about each other, but found their connections in deep memory in “the Palace”. It takes people through a journey of entering the palace and create invisible object.
-## 空触觉是什么？ What is Empty Touch
-我称之为"空触觉"的东西是一种触觉体验，它可以利用人们的习惯性动作和记忆来模拟触摸某物的感觉，即便你实际上没有摸到任何东西。
+![半透明的手的影响后面有重叠在一起的两个人影，一个穿了衣服，一个没穿衣服](https://images4.imagebam.com/d9/b4/6c/MESEWHQ_o.jpg)
 
-说得很抽象，那不如先看看下面这个视频吧。
+***The Palace***  
+11'24'', Two channel video installation, transparent fabric and projections, 2023.  
+"The Palace" is a combination of tactile experience and visual storytelling. The holographic and immersive experience render the piece both as a tutorial and a narrative, and its narrative perspective is both first person and third person. The plot adapts the story of the Emperor's New Clothes and Buddhist scriptures Śūraṅgama Sūtra; in the Emperor's New Clothes, the emperor is deceived into wearing invisible clothing, but in my story, the emperor voluntarily chooses to do so because he believes that memories from the cherished one are more important than luxurious garments made of jewels. As long as one believes, even in ruins, the treasures in one's heart will not disappear. 
 
 ![](https://youtu.be/LzCTLmiBhfc)
 
-What I call "Empty Touch" is a tactile experience that utilizes people's habitual movements and memories to simulate the sensation of touching something, even though you are not actually touching anything.
+![](https://images4.imagebam.com/b2/58/40/MESEWNY_o.jpg)
 
-To make it less abstract, let's first take a look at this video
+**_Empty Touch_**  
+“Empty touch” is a tactile experience I discovered that can simulate the feeling of touching something by reenacting the gesture of touching the object guided, by verbal or visual cues.
+
+![《宫殿》静帧](https://images4.imagebam.com/d7/5e/f1/MESEWN2_o.jpg)
+
+**_Empty Touch Workshop_**  
+workshop  
+Using the same fictional framework of “The Palace”, the workshop is an embodied an interactive journey of the empty touch. The workshop starts with watching the video installation of “the Palace”, and then I acted as the host of “The Palace”, guide participants with various exercises: to touch objects, to extract texture from objects, to touch the space, or to use this method to experience other artworks, such as poems, films, etc.   
+This workshop has been hosted in UCCA Museum and VCUarts Graduate Candidacy Group Exhibition.
+## 空触觉是什么？ What is Empty Touch
+我称之为"空触觉"的东西是一种触觉体验，它可以利用人们的习惯性动作和记忆来模拟触摸某物的感觉，即便你实际上没有摸到任何东西。
+
+What I call "Empty Touch" is a tactile experience that utilizes people's habitual movements and memories to simulate the sensation of touching something, even though you are not actually touching anything.
 
 ## 创作契机 Initial Starting Point
 

@@ -1,0 +1,3 @@
+# ***Tactile Cinema(Nezha Conquers the Dragon King)***  
+7'. Live performance with various props. 2020.  
+This performance uses only tactile experience to tell a story. A cinematic experience without using sight. The story is a Chinese folklore called Nezha Conquers the Dragon King, about fighting feudalism, which is also adapted into an animation film in 1979. This tactile theatre took inspiration from the animted film and added various tactile experiences based on the plot.
