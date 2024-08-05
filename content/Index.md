@@ -1,6 +1,10 @@
 ---
 title: Leilei Xia
 ---
+![Tactileye|200x](https://files.catbox.moe/2i0xku.png)
+
+
+
 For visually impaired readers, please use [[Index of content]] to navigate this site
 
 Leilei Xia was born in Guangzhou, China. She is a multimedia artist who works in tactile art, experimental animation, video art, and participatory collective art. As one of the editors of the independent science zine Icosa Magazine and the founder of the tactile art collective Tactileye, Leilei explores how tactility and bodily feelings are manifested in different mediums, and is interested in combining the process and result of creating art, treating art not merely as a noun but as a verb.  
