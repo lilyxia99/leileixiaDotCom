@@ -26,14 +26,22 @@
 
 ## 空触觉 **_Empty Touch_**  
 
-“Empty touch” is a tactile experience I discovered that can simulate the feeling of touching something by reenacting the gesture of touching the object guided, by verbal or visual cues.
+"空触摸 "是我偶然发现的一种触觉现象。虽然我给它取了这个名字，但是这个现象在很多文化、舞蹈和身体练习里都有被使用。它可以利用人们的习惯性动作和记忆来模拟触摸某物的感觉，却不会触碰到任何东西。具体来说，就是通过无实物表演的方式，勾连起身体对于触摸某物或者身处某空间的记忆，在肌肉记忆被唤醒时，人也会觉得仿佛实际摸到了什么。
 
-![UCCA 工作坊现场](https://files.catbox.moe/u0v196.jpeg =500x)
+“Empty touch” is a tactile experience I discovered that can simulate the feeling of touching something by reenacting the gesture of touching the object guided, by verbal or visual cues. Although I gave it this name, this phenomenon has been used for a long time by various dancing and body exercise in different cultures. 
 
-**_Empty Touch Workshop_**  
-workshop  
+![UCCA 工作坊现场|500x](https://files.catbox.moe/u0v196.jpeg)
+
+![](https://files.catbox.moe/9skuw2.jpeg)
+## 触觉哑剧工作坊   **_Empty Touch Workshop_**  
+现场工作坊，2023-now  
+触觉哑剧工作坊的目的就是为了带领参与者一起实际体验空触觉。工作坊有一个和影像装置《宫殿》相同的虚构背景，那就是“宫殿”，也是指记忆宫殿。通过赋予工作坊体验一个隐喻空间，我想到了我们自身与记忆之间的哲学和心理学关系。宫殿中的事物既是空的，又是实体，它们不是来自我们的头脑，而是来自我们的整个身体。
+
+workshop，2023-now  
 Using the same fictional framework of “The Palace”, the workshop is an embodied an interactive journey of the empty touch. The workshop starts with watching the video installation of “the Palace”, and then I acted as the host of “The Palace”, guide participants with various exercises: to touch objects, to extract texture from objects, to touch the space, or to use this method to experience other artworks, such as poems, films, etc.   
 This workshop has been hosted in UCCA Museum and VCUarts Graduate Candidacy Group Exhibition.
+
+
 
 ![](https://files.catbox.moe/jkphw1.jpg)
 
