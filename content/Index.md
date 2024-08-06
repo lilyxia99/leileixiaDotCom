@@ -1,7 +1,7 @@
 ---
 title: Tactile Artist, Animator and Filmmaker, Workshop Designer
 ---
-[![Empty Touch](https://files.catbox.moe/2i0xku.png)](https://leileixia.com/Body-&-Touch/2.-Empty-Touch-空触觉)
+[![Empty Touch](https://files.catbox.moe/2i0xku.png)](https://leileixia.com/2.Body-&-Touch/2.-Empty-Touch-空触觉)
 
 For visually impaired readers, please use [[Index of content]] to navigate this site
 
