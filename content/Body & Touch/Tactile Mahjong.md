@@ -1,0 +1,8 @@
+**Tactile Mahjong**  
+
+Board game, Chengdu A4 International Artist Residency, Collaboration with Yaxin Ye, 7-9/2021  
+
+Touch is deeply related to memory and can easily trigger imagination, but people ignore their communication most of the time. In this board game, the players’ eyes are blindfolded. By coming up with an imaginative description of the tactile bottles, people use their tactile sensibility to puzzle other players and eventually win the game.  
+
+
+![](https://youtu.be/UOCZkI9f2ak)
