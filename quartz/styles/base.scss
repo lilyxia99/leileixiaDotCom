@@ -89,9 +89,11 @@ a {
 }
 
 .desktop-only {
+  //display:flex;
   display: initial;
+  
   @media all and (max-width: $fullPageWidth) {
-    display: none;
+    display: flex;
   }
 }
 
@@ -103,10 +105,12 @@ a {
 }
 
 .page {
-  @media all and (max-width: $fullPageWidth) {
+  
+  
+  @media all and (max-width: $fullPageWidth) {//
     margin: 0 auto;
-    padding: 0 1rem;
-    max-width: $pageWidth;
+  padding: 0 1rem;
+    max-width: $pageWidth;//
   }
 
   & article {
@@ -136,10 +140,11 @@ a {
   }
 
   & > #quartz-body {
-    width: 100%;
+    
+    @media all and (max-width: $fullPageWidth) {//
+      width: 100%;
     display: flex;
-    @media all and (max-width: $fullPageWidth) {
-      flex-direction: column;
+    flex-direction: column;//
     }
 
     & .sidebar {
@@ -162,8 +167,9 @@ a {
       }
     }
 
+    
     & .sidebar.left {
-      left: calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
+      left: 0;//calc(calc(100vw - $pageWidth) / 2 - $sidePanelWidth);
       @media all and (max-width: $fullPageWidth) {
         gap: 0;
         align-items: center;
@@ -194,9 +200,10 @@ a {
 
   & .center,
   & footer {
-    margin-left: auto;
-    margin-right: auto;
-    width: $pageWidth;
+    margin-left: calc($sidePanelWidth + 2%);
+    margin-right: 100px;
+    width: calc(100vw - ($sidePanelWidth*1.5));
+    min-width: $pageWidth;
     @media all and (max-width: $fullPageWidth) {
       width: initial;
       margin-left: 0;
@@ -408,7 +415,7 @@ code {
 tbody,
 li,
 p {
-  line-height: 1.6rem;
+  line-height: 1.8rem;
 }
 
 .table-container {
