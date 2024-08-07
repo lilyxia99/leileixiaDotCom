@@ -204,6 +204,7 @@ a {
     margin-right: 100px;
     width: calc(100vw - ($sidePanelWidth*1.5));
     min-width: $pageWidth;
+    max-width: calc($pageWidth*1.5);
     @media all and (max-width: $fullPageWidth) {
       width: initial;
       margin-left: 0;
@@ -416,6 +417,11 @@ tbody,
 li,
 p {
   line-height: 1.8rem;
+}
+
+li > a {
+  line-height: 2rem;
+  font-weight: 600;//目录里的每一个文件
 }
 
 .table-container {

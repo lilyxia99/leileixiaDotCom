@@ -15,6 +15,13 @@ function PageTitle({ fileData, cfg, displayClass }: QuartzComponentProps) {
 PageTitle.css = `
 .page-title {
   margin: 0;
+  margin-top:20px;
+  background-image: url("https://leileixia.online/images/My-name-as-logo.gif");
+  background-position:center;
+  background-size:contain;
+     min-height: 150px;
+  background-repeat:no-repeat;
+  text-shadow: 5px 5px 5px #558ABB;
 }
 `
 

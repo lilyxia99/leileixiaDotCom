@@ -104,13 +104,16 @@ svg {
     padding-right: 0;
     display: flex;
     align-items: center;
+    
     font-family: var(--headerFont);
 
+    //这里是目录里的文件夹的部分
     & span {
-      font-size: 0.95rem;
+      font-size: 1rem;
+      
       display: inline-block;
       color: var(--secondary);
-      font-weight: 600;
+      //font-weight: 600;
       margin: 0;
       line-height: 1.5rem;
       pointer-events: none;
@@ -120,10 +123,15 @@ svg {
 
 .folder-icon {
   margin-right: 5px;
+  
   color: var(--secondary);
   cursor: pointer;
   transition: transform 0.3s ease;
   backface-visibility: visible;
+}
+
+li {
+  font-style: italic;
 }
 
 li:has(> .folder-outer:not(.open)) > .folder-container > svg {

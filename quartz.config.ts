@@ -34,8 +34,8 @@ const config: QuartzConfig = {
           lightgray: "#393639",
           gray: "#646464",
           darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
+          dark: "#ebebec",//正文的颜色
+          secondary: "#f7aa2d",//首页的标题就是这个颜色
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
         },
