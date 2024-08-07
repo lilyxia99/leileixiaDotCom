@@ -53,7 +53,7 @@ This workshop has been hosted in UCCA Museum and VCUarts Graduate Candidacy Grou
 ![Catbox](https://files.catbox.moe/u99jbz.png)
 
 ## Related Works
-[[1. Nezha Conquers the Dragon King]]
+[[Nezha Conquers the Dragon King]]
 
 # 创作过程
 ## 空触觉是什么？ What is Empty Touch
