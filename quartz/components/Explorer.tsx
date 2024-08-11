@@ -9,7 +9,7 @@ import { classNames } from "../util/lang"
 
 // Options interface defined in `ExplorerNode` to avoid circular dependency
 const defaultOptions = {
-  title: "Explorer",
+  title: "Work List",
   folderClickBehavior: "collapse",
   folderDefaultState: "collapsed",
   useSavedState: true,

@@ -18,7 +18,7 @@ section {
   font-family: var(--bodyFont);
   color: var(--darkgray);
   background: rgb(11,11,11);
-background: radial-gradient(circle, rgba(11,11,11,1) 34%, rgba(2,24,68,1) 74%, rgba(60,5,5,1) 100%);
+//background: radial-gradient(circle, rgba(11,11,11,1) 34%, rgba(2,24,68,1) 74%, rgba(60,5,5,1) 100%);
   
 }
 
@@ -515,7 +515,7 @@ ol.overflow {
     bottom: 0;
     opacity: 1;
     transition: opacity 0.3s ease;
-    background: linear-gradient(transparent 0px, var(--light));
+    //background: linear-gradient(transparent 0px, var(--light)); //这个是底部的黑色边缘
   }
 }
 
