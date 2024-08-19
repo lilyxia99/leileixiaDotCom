@@ -141,6 +141,8 @@ The effect was quite magical, possibly because of the strong rapport among the t
 15:18-15:24 构筑（8分钟）
 
 15:25-15:30 写总结，同时我致谢
+![uploading...](jaerpw)
+
 
 **不可见的雕塑工作坊**
 
